@@ -8,4 +8,4 @@
 
 ---
 
-![img](http://cerkh.img47.wal8.com/img47/539039_20160308170255/146070736576.gif)
+![img](https://github.com/dgytdhy/PanCollectionView/blob/master/demo.gif)
